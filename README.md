@@ -1,0 +1,2 @@
+# JapanWarecfg
+JapanWare
